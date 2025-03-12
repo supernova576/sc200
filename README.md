@@ -7,6 +7,7 @@
 | Übungsprüfung von Microsoft                  | [Link](https://learn.microsoft.com/de-de/credentials/certifications/exams/sc-200/practice/assessment?assessment-type=practice&assessmentId=59) |
 | SC-200 Exam Answers (first 100 free)         | [Link](https://www.examtopics.com/exams/microsoft/sc-200/view/)                                                                                |
 | m365maps.com (Features pro Defender / Modul) | [Link](https://m365maps.com/)                                                                                                                  |
+| Microsoft Lab Aufgaben                       | [Link](https://microsoftlearning.github.io/SC-200T00A-Microsoft-Security-Operations-Analyst/)                                                  |
 ## Administratives
 #### Prüfungsgewichtung
 Lernziele siehe weiter unten
